@@ -177,7 +177,7 @@ status open
 
 
 \backslash
-chapter{Buku Satu}
+chapter{Kelompok Satu}
 \end_layout
 
 \end_inset
@@ -1315,7 +1315,7 @@ status open
 
 
 \backslash
-chapter{Buku Dua}
+chapter{Kelompok Dua}
 \end_layout
 
 \end_inset
@@ -2163,7 +2163,7 @@ status open
 
 
 \backslash
-chapter{Buku Tiga}
+chapter{Kelompok Tiga}
 \end_layout
 
 \end_inset
@@ -3050,7 +3050,7 @@ status open
 
 
 \backslash
-chapter{Buku Umpat}
+chapter{Kelompok Umpat}
 \end_layout
 
 \end_inset
@@ -3184,7 +3184,7 @@ status open
 
 
 \backslash
-chapter{Buku Lima}
+chapter{Kelompok Lima}
 \end_layout
 
 \end_inset
@@ -4791,7 +4791,7 @@ status open
 
 
 \backslash
-chapter{Buku Enam}
+chapter{Kelompok Enam}
 \end_layout
 
 \end_inset
@@ -6029,7 +6029,7 @@ status open
 
 
 \backslash
-chapter{Buku Tuju}
+chapter{Kelompok Tuju}
 \end_layout
 
 \end_inset
@@ -6632,7 +6632,7 @@ status open
 
 
 \backslash
-chapter{Buku Delapan}
+chapter{Kelompok Delapan}
 \end_layout
 
 \end_inset
@@ -6869,7 +6869,7 @@ newpage
 
 
 \backslash
-chapter{Buku Sembilan}
+chapter{Kelompok Sembilan}
 \end_layout
 
 \end_inset
@@ -7141,7 +7141,7 @@ newpage
 
 
 \backslash
-chapter{Buku Sepuluh}
+chapter{Kelompok Sepuluh}
 \end_layout
 
 \end_inset
@@ -7445,7 +7445,7 @@ newpage
 
 
 \backslash
-chapter{Buku Sebelas}
+chapter{Kelompok Sebelas}
 \end_layout
 
 \end_inset
@@ -7771,7 +7771,7 @@ newpage
 
 
 \backslash
-chapter{Buku Enam Belas}
+chapter{Kelompok Enam Belas}
 \end_layout
 
 \end_inset
@@ -8186,7 +8186,7 @@ newpage
 
 
 \backslash
-chapter{Buku Dua Puluh}
+chapter{Kelompok Dua Puluh}
 \end_layout
 
 \end_inset
@@ -10863,7 +10863,7 @@ newpage
 
 
 \backslash
-chapter{Buku Tiga Puluh}
+chapter{Kelompok Tiga Puluh}
 \end_layout
 
 \end_inset
@@ -11609,7 +11609,7 @@ newpage
 
 
 \backslash
-chapter{Buku Umpat Puluh}
+chapter{Kelompok Umpat Puluh}
 \end_layout
 
 \end_inset
@@ -12670,7 +12670,7 @@ newpage
 
 
 \backslash
-chapter{Buku Besar}
+chapter{Kelompok Panjang}
 \end_layout
 
 \end_inset
@@ -14143,6 +14143,32 @@ This book, like the translation made by Indra Anggara and related works
  copyright, and may be freely edited, copied, printed, and shared without
  permission.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+2in
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Computer files available online:
+\end_layout
+
+\begin_layout Standard
+https://github.com/indodhamma/therigatha
 \end_layout
 
 \end_body
