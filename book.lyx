@@ -14117,32 +14117,45 @@ status open
 
 \begin_layout Standard
 \align left
-This book is a translation of Therīgāthā by Indra Anggara in 2020.
- 
+Buku ini merupakan terjemahan dari Therıgatha karya Indra Anggara tahun
+ 2020.
 \end_layout
 
 \begin_layout Standard
-\align left
-This volume was typeset and reviewed by members of Vihara Santi Graha, Tanjung
- Redeb, Berau in March 2022 on International Women's Day.
- 
+Edisi ini diketik dan diulas oleh anggota Vihara Santi Graha, Tanjung Redeb,
+ Berau pada bulan Maret 2022 tepat saat Hari Peringatan Perempuan Internasional.
 \end_layout
 
 \begin_layout Standard
-\align left
-This book would not have been possible without the work of Bhante Sujato
- and his website https://suttacentral.net/ .
- We thank Bhante Sujato for his efforts in making the Dhamma accessible
- and his work in fighting patriarchy.
+Buku ini tidak akan mungkin terwujud tanpa karya Bhante Sujato dan proyeknya
  
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+underline{https://suttacentral.net/}
+\end_layout
+
+\end_inset
+
+ .
+ Kami berterima kasih kepada Bhante Sujato atas usahanya.
+ projek beliau sangat membantu dan memudahkan kita untuk dapat mengakses
+ Dhamma dan berterimakasih pada beliau dalam memerangi patriarki.
 \end_layout
 
 \begin_layout Standard
-This book, like the translation made by Indra Anggara and related works
- by Bhante Sujato's SuttaCentral is released into the public domain, without
- copyright, and may be freely edited, copied, printed, and shared without
- permission.
- 
+Edisi ini, serupa dengan terjemahan Indra Anggara dan karya-karya terkait
+ SuttaCentral Bhante Sujato yang dirilis ke domain publik, tanpa hak cipta,
+ dan dapat diedit, disalin, dicetak, dan dibagikan secara bebas tanpa izin
+ atau batasan.
+\end_layout
+
+\begin_layout Standard
+File komputer tersedia online: 
 \end_layout
 
 \begin_layout Standard
@@ -14153,22 +14166,12 @@ status open
 
 
 \backslash
-
-\backslash
-2in
+underline{https://github.com/indodhamma/therigatha}
 \end_layout
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Computer files available online:
-\end_layout
-
-\begin_layout Standard
-https://github.com/indodhamma/therigatha
 \end_layout
 
 \end_body
