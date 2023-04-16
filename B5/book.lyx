@@ -114,7 +114,7 @@ customHeadersFooters
 \pdf_backref section
 \pdf_pdfusetitle false
 \pdf_quoted_options "hidelinks,pdfcreator={LaTeX via pandoc}"
-\papersize b5paper
+\papersize a5paper
 \use_geometry false
 \use_package amsmath 2
 \use_package amssymb 2
@@ -320,22 +320,6 @@ status collapsed
 
 \backslash
 hypertarget{puux1e47ux1e47ux101}{
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
 \end_layout
 
 \end_inset
@@ -1881,22 +1865,6 @@ hypertarget{ibunya-abhaya}{
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 2.8 Ibunya Abhaya
 \end_layout
@@ -2042,22 +2010,6 @@ status collapsed
 
 \backslash
 hypertarget{sux101mux101}{
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
 \end_layout
 
 \end_inset
@@ -2308,22 +2260,6 @@ Empat atau lima kali
 \end_inset
 
  Atau kendali apapun atas pikiranku.
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -2689,22 +2625,6 @@ hypertarget{sukkux101}{
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 3.6 Sukkā
 \end_layout
@@ -3050,7 +2970,7 @@ status open
 
 
 \backslash
-chapter{Kelompok Umpat}
+chapter{Kelompok Empat}
 \end_layout
 
 \end_inset
@@ -5267,22 +5187,6 @@ hypertarget{sujux101tux101}{
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 6.4 Sujātā
 \end_layout
@@ -5460,22 +5364,6 @@ Aku dilahirkan dalam keluarga terpandang,
 \end_inset
 
  Putri Majjha yang sejati.
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -5811,22 +5699,6 @@ O bhikkhunī, ketika engkau telah meninggalkan
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Dan ketika engkau meninggalkan keserakahan,
 \begin_inset Newline newline
 \end_inset
@@ -6142,22 +6014,6 @@ Setelah mendengar kata-katanya,
 \end_inset
 
  Dan pergi ke tempat sunyi.
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -6517,22 +6373,6 @@ Kematian mendatangi mereka yang terlahir;
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Tetapi ada seorang yang terlahir dalam suku Sakya,
 \begin_inset Newline newline
 \end_inset
@@ -6862,13 +6702,6 @@ status open
 
 
 \backslash
-newpage
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
 chapter{Kelompok Sembilan}
 \end_layout
 
@@ -6989,18 +6822,6 @@ Ibu, engkau berkata dengan begitu yakin
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
 
 \end_layout
 
@@ -7129,13 +6950,6 @@ hypertarget{kisux101gotami}{
 \begin_layout Standard
 \begin_inset ERT
 status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
 
 \begin_layout Plain Layout
 
@@ -7271,22 +7085,6 @@ Beberapa perempuan bahkan memotong lehernya sendiri,
 
 
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
 \end_inset
 
 
@@ -7438,13 +7236,6 @@ status open
 
 
 \backslash
-newpage
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
 chapter{Kelompok Sebelas}
 \end_layout
 
@@ -7548,22 +7339,6 @@ Aku mengetahui kehidupan-kehidupan lampauku;
 \end_inset
 
  Telinga-dewaku murni;
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -7701,22 +7476,6 @@ Kenikmatan indria adalah bagaikan pedang dan tombak
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Kesenangan dihancurkan dalam segala aspek,
 \begin_inset Newline newline
 \end_inset
@@ -7759,13 +7518,6 @@ hypertarget{puux1e47ux1e47ikux101}{
 \begin_layout Standard
 \begin_inset ERT
 status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
 
 \begin_layout Plain Layout
 
@@ -7889,22 +7641,6 @@ Siapapun juga tua atau muda
 \end_inset
 
  
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -8179,13 +7915,6 @@ status open
 
 
 \backslash
-newpage
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
 chapter{Kelompok Dua Puluh}
 \end_layout
 
@@ -8297,22 +8026,6 @@ Alis mataku dulu tampak cantik,
 \end_inset
 
  Kata-kata dari sang pembabar kebenaran telah terkonfirmasi.
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -9084,22 +8797,6 @@ Jangan marah padaku, pahlawan besar!
  
 \end_layout
 
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Ājīvaka Upaka Thero (suami dari Cāpā Therī):
 \end_layout
@@ -9249,22 +8946,6 @@ Engkau bagaikan seorang pemburu burung
 \end_inset
 
  
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -10245,22 +9926,6 @@ Engkau adalah Sang Buddha, Engkau adalah Sang Guru,
  
 \end_layout
 
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Sang Buddha:
 \end_layout
@@ -10856,13 +10521,6 @@ status open
 
 
 \backslash
-newpage
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
 chapter{Kelompok Tiga Puluh}
 \end_layout
 
@@ -10969,22 +10627,6 @@ Seorang yang pikirannya ternoda kepada seorang yang tanpa noda;
 \end_inset
 
  
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -11242,22 +10884,6 @@ Walaupun engkau mungkin mengembara jauh, aku tetap memikirkan engkau,
 \end_inset
 
  
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -11537,22 +11163,6 @@ Menyerang seorang seperti ini
  
 \end_layout
 
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Penyusun:
 \end_layout
@@ -11602,14 +11212,7 @@ status open
 
 
 \backslash
-newpage
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-chapter{Kelompok Umpat Puluh}
+chapter{Kelompok Empat Puluh}
 \end_layout
 
 \end_inset
@@ -11720,22 +11323,6 @@ Engkau sangat cantik, Yang Mulia Isidāsī
 \end_inset
 
  
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -12048,22 +11635,6 @@ Karena menyayangi putra kami,
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Selanjutnya ayahku menyerahkan aku ke rumah tangga
 \begin_inset Newline newline
 \end_inset
@@ -12232,22 +11803,6 @@ Tetapi kemudian Yang Mulia Nyonya Jinadattā,
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Ketika aku melihatnya,
 \begin_inset Newline newline
 \end_inset
@@ -12408,22 +11963,6 @@ Di kota Erakacca
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Setelah meninggal dunia dari sana,
 \begin_inset Newline newline
 \end_inset
@@ -12552,22 +12091,6 @@ Aku meninggal dunia pada usia tiga puluh,
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Karena bunga pinjaman yang sangat besar,
 \begin_inset Newline newline
 \end_inset
@@ -12658,13 +12181,6 @@ hypertarget{sumedhux101}{
 \begin_layout Standard
 \begin_inset ERT
 status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
 
 \begin_layout Plain Layout
 
@@ -12785,22 +12301,6 @@ Mereka yang tumbuh dalam kejahatan
 \end_inset
 
  Pikiran, dan ucapan.
-\end_layout
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -13938,22 +13438,6 @@ Sepuluh kali, seratus kali,
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Kami perkasa di tengah-tengah para dewa,
 \begin_inset Newline newline
 \end_inset
@@ -14011,10 +13495,6 @@ Demikianlah syair-syair ini dilafalkan oleh bhikkhunī senior Sumedhā.
 
 \begin_layout Standard
 Kelompok Panjang selesai.
-\end_layout
-
-\begin_layout Standard
-Y pye
 \end_layout
 
 \begin_layout Standard
@@ -14117,45 +13597,32 @@ status open
 
 \begin_layout Standard
 \align left
-Buku ini merupakan terjemahan dari Therıgatha karya Indra Anggara tahun
- 2020.
-\end_layout
-
-\begin_layout Standard
-Edisi ini diketik dan diulas oleh anggota Vihara Santi Graha, Tanjung Redeb,
- Berau pada bulan Maret 2022 tepat saat Hari Peringatan Perempuan Internasional.
-\end_layout
-
-\begin_layout Standard
-Buku ini tidak akan mungkin terwujud tanpa karya Bhante Sujato dan proyeknya
+This book is a translation of Therīgāthā by Indra Anggara in 2020.
  
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-underline{https://suttacentral.net/}
-\end_layout
-
-\end_inset
-
- .
- Kami berterima kasih kepada Bhante Sujato atas usahanya.
- projek beliau sangat membantu dan memudahkan kita untuk dapat mengakses
- Dhamma dan berterimakasih pada beliau dalam memerangi patriarki.
 \end_layout
 
 \begin_layout Standard
-Edisi ini, serupa dengan terjemahan Indra Anggara dan karya-karya terkait
- SuttaCentral Bhante Sujato yang dirilis ke domain publik, tanpa hak cipta,
- dan dapat diedit, disalin, dicetak, dan dibagikan secara bebas tanpa izin
- atau batasan.
+\align left
+This volume was typeset and reviewed by members of Vihara Santi Graha, Tanjung
+ Redeb, Berau in March 2022 on International Women's Day.
+ 
 \end_layout
 
 \begin_layout Standard
-File komputer tersedia online: 
+\align left
+This book would not have been possible without the work of Bhante Sujato
+ and his website https://suttacentral.net/ .
+ We thank Bhante Sujato for his efforts in making the Dhamma accessible
+ and his work in fighting patriarchy.
+ 
+\end_layout
+
+\begin_layout Standard
+This book, like the translation made by Indra Anggara and related works
+ by Bhante Sujato's SuttaCentral is released into the public domain, without
+ copyright, and may be freely edited, copied, printed, and shared without
+ permission.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -14166,12 +13633,22 @@ status open
 
 
 \backslash
-underline{https://github.com/indodhamma/therigatha}
+
+\backslash
+2in
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Computer files available online:
+\end_layout
+
+\begin_layout Standard
+https://github.com/indodhamma/therigatha
 \end_layout
 
 \end_body
